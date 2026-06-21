@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there! I'm prdevx 👋
+
+Full-stack engineer specialized in Python development. Passionate about building high-performance systems and efficient logic.
+
+### 🐍 My focus:
+* **Python**: Writing clean, scalable, and efficient code.
+* **Backend & Automation**: Developing robust solutions and automating complex processes.
+* **Problem Solving**: Turning complex ideas into functional reality.
+
+---
+*Building things, one line of code at a time.*
 
 <!--
 **prdevx/Prdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
